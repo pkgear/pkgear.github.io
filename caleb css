@@ -1,0 +1,31 @@
+body {
+  text-align:center;
+}
+
+h1{
+  font-family:sans-sarif;
+  font-size:70px;
+}
+
+h2{
+  color:#228B22;
+  font-size:30px;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+height: 600px;}
+
+#img-caption {
+  font-family: sans-sarif;
+}
+
+p {
+  font-family: helvetica;
+}
+
+.tribute-link { font-size: 15px;}
+
+
+
